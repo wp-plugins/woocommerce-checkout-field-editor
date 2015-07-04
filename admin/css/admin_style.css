@@ -1,0 +1,135 @@
+input.wcfe_title.wcfe_submit:hover{
+  border-bottom: 1px solid #f1f1f1;
+  background: #b366a4;
+  color: #fff;
+}
+input.wcfe_title.wcfe_submit {
+  padding: 6px 15px;
+  border: none;
+  float: right;
+}
+.nav-tab-active, .nav-tab-active:hover , .wcfe_title:hover {
+  border-bottom: 1px solid #f1f1f1 !important;
+  background: #157e6a !important;
+  color: #fff !important;
+}
+.wcfe_name_heading {
+  background: none repeat scroll 0 0 #444;
+  border-radius: 3px;
+  color: #fff;
+  padding: 5px 10px;
+}
+.wcfe_title.billing-tab {
+	margin-left: 0px;
+}
+.wcfe_title {
+    margin: 5px 0 15px 10px;
+    color: #fff;
+    font-size: 20px;
+    float: left;
+    background: #1fa28e;
+    padding: 11px 17px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+input.readonly, input[readonly], textarea.readonly, textarea[readonly] {
+  background-color: #eee !important;
+}
+
+input[type="text"] {
+    width: 100%;
+    border: 1px solid #ddd;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: #fff;
+    color: #333;
+}
+input[type=checkbox], input[type=radio] {
+	border: 1px inset;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+	background-color: #fff;
+    color: #333;
+}
+.small {
+    font-size: 10px;
+}
+.wcfe_clone {
+    display:none;
+}
+p.submit {
+    float: right;
+    padding: 0 !IMPORTANT;
+    margin: 0 !IMPORTANT;
+}
+.wccfe_replace {
+    width: 20%;
+}
+.wccfe-order {
+    cursor:move;
+}
+.wccfe-table > tbody > tr > td {
+    background: #fff;
+    border-right: 1px solid #ededed;
+    border-bottom: 1px solid #ededed;
+    padding: 8px;
+    position: relative;
+}
+.wccfe-table > tbody > tr:last-child td { border-bottom: 0 none; }
+.wccfe-table > tbody > tr td:last-child { border-right: 0 none; }
+.wccfe-table > thead > tr > th { border-right: 1px solid #e1e1e1; }
+.wccfe-table > thead > tr > th:last-child { border-right: 0 none; }
+.wccfe-table tr td.wccfe-order,
+.wccfe-table tr th.wccfe-order {
+	width: 16px;
+	text-align: center;
+	vertical-align: middle;
+	color: #b366a4;
+	text-shadow: #fff 0 1px 0;
+}
+.wccfe-table .wccs-remove {
+	font-size: 20px;
+	font-weight: 700;
+	vertical-align: middle;
+    text-align: center;
+}
+.wccfe-table input[type="text"] {
+    width: 100%;
+}
+.wccfe-table-footer {
+	position: relative;
+	overflow: hidden;
+	margin-top: 10px;
+	padding: 8px 0;
+}
+input[type=text]:disabled {
+    background: #dddddd;
+}
+.form_heading > h2 {
+    margin-bottom: 25px;
+}
+.wcfe-row > td , .widefat.shipping-wccs-table.shipping-semi td {
+    box-shadow: 0 0 1px #ddd;
+}
+.widefat{
+    border: medium none !important;
+}
+.wrap .text-center {
+    margin-bottom: 14px;
+    margin-top: 10px;
+    text-transform: capitalize !important;
+}
+.wcfe-remove {
+    text-align: center;
+}
+.wcfe-remove a{
+    position: relative;
+    top: 5px;
+}
+table.billing-semi thead tr th,table.shipping-semi thead tr th, .additional-semi thead tr th{
+    font-weight:  bold !important; 
+}
+.additional-semi .widefat th input{
+    font-weight: normal;    
+}
