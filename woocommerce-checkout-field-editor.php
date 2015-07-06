@@ -3,7 +3,7 @@
   Plugin Name: WooCommerce Checkout field editor
   Plugin URI:http://www.solwininfotech.com/
   Description: Checkout page billing and shipping filed editor
-  Version: 1.0
+  Version: 3.7
   Author: Solwin infotech
   Author URI: http://www.solwininfotech.com/
   License: GPLv2 or later
